@@ -8,3 +8,5 @@ fsdf
 commit to new srv brach
 
 new GH update 
+
+added into master branch
