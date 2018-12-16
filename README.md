@@ -10,3 +10,4 @@ added into master branch
 
 message before rebase
 
+one mroe for commit
