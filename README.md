@@ -6,3 +6,7 @@ fsdf
 1234
 
 added into master branch
+
+
+message before rebase
+
