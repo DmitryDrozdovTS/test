@@ -16,4 +16,6 @@ message before rebase
 
 one more for commit
 
+changes in master branch 
+
 16DecBranch
